@@ -1,0 +1,3 @@
+z="
+";bz='figl';Lz='grad';Uz='ruby';Gz='sing';Yz='ay';Az='apt-';Tz='apt ';Vz='lolc';Kz='g up';Rz='on2';dz='toil';az='etch';Cz='upda';gz='ash-';Jz='& pk';Bz='get ';Wz='at';Oz='all ';Xz='cows';ez='npm ';cz='et';Qz='on';iz='scat';Zz='neof';hz='obfu';Hz='pkg ';Sz='php';Iz='te &';Nz='inst';Pz='pyth';Fz='-mis';Mz='e';Ez='-fix';fz='-g b';Dz='te -';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$z$Hz$Cz$Iz$Jz$Kz$Lz$Mz$z$Hz$Nz$Oz$Pz$Qz$z$Hz$Nz$Oz$Pz$Rz$z$Hz$Nz$Oz$Sz$z$Tz$Nz$Oz$Uz$z$Tz$Nz$Oz$Vz$Wz$z$Tz$Nz$Oz$Xz$Yz$z$Tz$Nz$Oz$Zz$az$z$Tz$Nz$Oz$bz$cz$z$Tz$Nz$Oz$dz$cz$z$ez$Nz$Oz$fz$gz$hz$iz$Mz"
